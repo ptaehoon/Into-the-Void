@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "Sing a low note while you press this button"; ObjectID = "0Lo-6p-Z5w"; */
+"0Lo-6p-Z5w.normalTitle" = "Sing a low note while you press this button";
+
+/* Class = "UIButton"; normalTitle = "Level 4"; ObjectID = "0T2-qo-nXI"; */
+"0T2-qo-nXI.normalTitle" = "Level 4";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "0if-CP-Wfn"; */
+"0if-CP-Wfn.normalTitle" = "Back";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6MM-Xe-etV"; */
+"6MM-Xe-etV.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Current Note:"; ObjectID = "6Oa-Fe-7JN"; */
+"6Oa-Fe-7JN.text" = "Current Note:";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Hjf-vl-gdU"; */
+"Hjf-vl-gdU.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Debug Mother Forkerrrrr"; ObjectID = "JYS-wK-luH"; */
+"JYS-wK-luH.normalTitle" = "Debug Mother Forkerrrrr";
+
+/* Class = "UIButton"; normalTitle = "Level 5"; ObjectID = "M2g-Bc-fuP"; */
+"M2g-Bc-fuP.normalTitle" = "Level 5";
+
+/* Class = "UIButton"; normalTitle = "Level 1"; ObjectID = "M9a-PM-G8t"; */
+"M9a-PM-G8t.normalTitle" = "Level 1";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "MI7-u5-mai"; */
+"MI7-u5-mai.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "N4V-Tj-xcP"; */
+"N4V-Tj-xcP.normalTitle" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Sing a high note while you press this button"; ObjectID = "Nvw-Mt-Mex"; */
+"Nvw-Mt-Mex.normalTitle" = "Sing a high note while you press this button";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "OQw-YH-JnI"; */
+"OQw-YH-JnI.normalTitle" = "Enter";
+
+/* Class = "UILabel"; text = "High Note: not set"; ObjectID = "P7R-sh-iH4"; */
+"P7R-sh-iH4.text" = "High Note: not set";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "QsB-tL-yVv"; */
+"QsB-tL-yVv.normalTitle" = "Reset";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Ss2-wP-jdE"; */
+"Ss2-wP-jdE.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Voice Calibration"; ObjectID = "Vo6-o4-xaB"; */
+"Vo6-o4-xaB.normalTitle" = "Voice Calibration";
+
+/* Class = "UILabel"; text = "Into The Void"; ObjectID = "Xj9-oq-dr5"; */
+"Xj9-oq-dr5.text" = "Into The Void";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Xp3-gi-gw3"; */
+"Xp3-gi-gw3.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Zhn-xt-XNl"; */
+"Zhn-xt-XNl.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Level 1"; ObjectID = "aEb-tI-07c"; */
+"aEb-tI-07c.normalTitle" = "Level 1";
+
+/* Class = "UILabel"; text = "Low Note: not set"; ObjectID = "gsT-Gg-HEJ"; */
+"gsT-Gg-HEJ.text" = "Low Note: not set";
+
+/* Class = "UIButton"; normalTitle = "Level 2"; ObjectID = "h0o-If-ZwA"; */
+"h0o-If-ZwA.normalTitle" = "Level 2";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i5f-uG-bgU"; */
+"i5f-uG-bgU.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Infinite Challenge"; ObjectID = "i83-nz-FHB"; */
+"i83-nz-FHB.normalTitle" = "Infinite Challenge";
+
+/* Class = "UILabel"; text = "Welcome to the Void"; ObjectID = "kyA-uB-VIi"; */
+"kyA-uB-VIi.text" = "Welcome to the Void";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "nTa-iJ-UCu"; */
+"nTa-iJ-UCu.text" = "Settings";
+
+/* Class = "UIViewController"; title = "LoginViewController"; ObjectID = "tMG-Pl-a2K"; */
+"tMG-Pl-a2K.title" = "LoginViewController";
+
+/* Class = "UIButton"; normalTitle = "Level 3"; ObjectID = "vqb-1Q-l8M"; */
+"vqb-1Q-l8M.normalTitle" = "Level 3";
+
+/* Class = "UIViewController"; title = "SignUpViewController"; ObjectID = "xzw-9Q-Pmd"; */
+"xzw-9Q-Pmd.title" = "SignUpViewController";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "yr2-II-lt2"; */
+"yr2-II-lt2.placeholder" = "Username";
